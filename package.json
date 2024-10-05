@@ -1,0 +1,20 @@
+{
+  "name": "andy-reset",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "css reset",
+    "normalize"
+  ],
+  "author": "Jiro Geomydas",
+  "homepage": "https://github.com/geomydas/andy-reset#readme",
+  "bugs": {
+    "url": "https://github.com/geomydas/andy-reset/issues"
+  },
+  "license": "MIT",
+  "description": "Andy Bell's CSS reset as an NPM package"
+}
